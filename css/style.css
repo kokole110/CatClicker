@@ -1,0 +1,23 @@
+.container {
+	text-align: center;
+}
+
+.cat-img {
+	width: 100%;
+	max-width: 100%;
+}
+
+.cat-img img {
+	width: 300px;
+	height: 200px;
+	border-radius: 15px;
+	object-fit: cover;
+}
+
+.cat-img img:hover {
+	cursor: pointer;
+}
+
+h1 {
+	text-align: center;
+}
